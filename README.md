@@ -4,46 +4,46 @@
 The Sales Performance Dashboard is an interactive Microsoft Excel project that transforms raw sales data into meaningful business insights. It enables users to monitor key performance indicators (KPIs), analyse sales trends, evaluate regional and category performance, and identify top-performing products and sales representatives through dynamic visualisations.
 
 ## 🚀 Features
--- Interactive slicers for:
--- Year
--- Region
--- Category
--- Salesperson
--- Customer Segment
+- Interactive slicers for:
+- Year
+- Region
+- Category
+- Salesperson
+- Customer Segment
    
 ## KPI Cards:
--- Total Sales
--- Total Profit
--- Total Orders
--- Total Quantity
--- Average Order Value
--- Profit Margin
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Quantity
+- Average Order Value
+- Profit Margin
 
 ##  Charts
--- Monthly Sales Trend Analysis
--- Sales by Region
--- Profit by Category
--- Top 10 Products by Sales
--- Customer Segment Distribution
--- Top 10 Salesperson Performance
+- Monthly Sales Trend Analysis
+- Sales by Region
+- Profit by Category
+- Top 10 Products by Sales
+- Customer Segment Distribution
+- Top 10 Salesperson Performance
 
 ## 🛠️ Tools & Skills Used
--- Microsoft Excel
--- Pivot Tables
--- Pivot Charts
--- Slicers
--- Excel Formulas
--- Conditional Formatting
--- Data Cleaning
--- Dashboard Design
--- Data Visualisation
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Excel Formulas
+- Conditional Formatting
+- Data Cleaning
+- Dashboard Design
+- Data Visualisation
  
 ## 📈 Business Insights
--- Track overall sales performance with real-time KPIs.
--- Compare sales across different regions and categories.
--- Identify top-selling products and high-performing salespeople.
--- Analyse customer segment contributions.
--- Monitor monthly sales trends for better decision-making.
+- Track overall sales performance with real-time KPIs.
+- Compare sales across different regions and categories.
+- Identify top-selling products and high-performing salespeople.
+- Analyse customer segment contributions.
+- Monitor monthly sales trends for better decision-making.
 
 ## 📂 Dashboard Preview
 
