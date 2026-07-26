@@ -62,5 +62,5 @@ Aspiring Data Analyst
 
 - 📧 Email: naddaadarsh913@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/adarsh-nadda-1a90bb419
-- 💻 GitHub: 
+- 💻 GitHub: https://github.com/Adarshnadda21
 
