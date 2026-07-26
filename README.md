@@ -47,7 +47,8 @@ The Sales Performance Dashboard is an interactive Microsoft Excel project that t
 
 ## 📂 Dashboard Preview
 
-<img width="1877" height="910" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/2b559364-7c75-49b9-9cdb-2e35e9585bdc" />
+<img width="1869" height="936" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/1ad33190-2617-4366-91f9-dddbb9cfbf1c" />
+
 
 
 ## 🎯 Project Objective
