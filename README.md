@@ -1,9 +1,9 @@
-##📊 Sales Performance Dashboard (Excel)
-## 📌 Overview
+## 📊 Sales Performance Dashboard (Excel)
+##  📌 Overview
 
 The Sales Performance Dashboard is an interactive Microsoft Excel project that transforms raw sales data into meaningful business insights. It enables users to monitor key performance indicators (KPIs), analyse sales trends, evaluate regional and category performance, and identify top-performing products and sales representatives through dynamic visualisations.
 
-##🚀 Features
+## 🚀 Features
 -- Interactive slicers for:
 -- Year
 -- Region
